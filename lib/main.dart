@@ -168,7 +168,7 @@ class GeneralInfo extends StatelessWidget{
                       style: TextStyle(fontSize: 36, color: Color(0xFF57150B))),
                       new Text("Click Below for Information, Schedule, and Tickets",
                       style: TextStyle(fontSize: 14, color: Color(0xFF57150B))),
-                    ]))));
+                    ])));
   }
 }
 
